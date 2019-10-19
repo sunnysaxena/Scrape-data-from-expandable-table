@@ -31,3 +31,7 @@ Execute indiarailinfo.py script by typing:
 
 python indiarailinfo.py 
 
+Output:
+-------
+
+![Screenshot from Kazam_screencast_00000 mp4](https://user-images.githubusercontent.com/11352227/67145255-8f54d700-f29d-11e9-86c2-09a306680fc1.png)
